@@ -1,0 +1,19 @@
+TDSessionDescription {
+	#name : 'gsDevKit',
+	#stoneHost : 'scandella',
+	#stoneName : 'devKit',
+	#gemHost : 'scandella',
+	#netLDI : '50750',
+	#gemTask : 'gemnetobject',
+	#userId : 'DataCurator',
+	#password : 'swordfish',
+	#osUserId : '',
+	#osPassword : '',
+	#dataDirectory : '',
+	#backupDirectory : '',
+	#gemstoneVersion : '3.1.0.6',
+	#gciLibraryName : nil,
+	#adornmentColor : nil,
+	#serverGitRoot : '/opt/git',
+	#serverTodeRoot : '/opt/git/gsDevKitHome//dev/tode'
+}
